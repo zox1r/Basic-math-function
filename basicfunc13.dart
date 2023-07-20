@@ -2,5 +2,10 @@
 // Create function argument a.
 // Returns the square root of a number.
 import 'dart:math';
-
-void main() {}
+num func(num a){
+    num a = 2;
+    return a;
+}
+void main() {
+    print(func(sqrt2));
+}
