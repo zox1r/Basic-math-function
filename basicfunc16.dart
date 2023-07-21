@@ -1,4 +1,11 @@
 // Create a function called main.
 // Create function arguments a and b.
 // Returns the sum of a and b.
-void main() {}
+int func(int a, int b){
+    return a + b;
+}
+
+
+void main() {
+    print(func(3, 6));
+}
