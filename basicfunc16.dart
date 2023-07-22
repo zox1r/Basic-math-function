@@ -9,3 +9,4 @@ int func(int a, int b){
 void main() {
     print(func(3, 6));
 }
+// git push qilish kerak.
