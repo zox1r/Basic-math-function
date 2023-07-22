@@ -9,3 +9,4 @@ return num1 ~/ num2;
 void main() {
     print(func(4, 2));
 }
+//git push qilish kerak.
